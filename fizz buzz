@@ -1,0 +1,9 @@
+# Query: even
+# ContextLines: 1
+
+def fizz_buzz(num):
+if (num % 3 == 0):
+    print("fizz")
+    elif (num %5 == 0):
+        print ("buzz")
+        elif ()
